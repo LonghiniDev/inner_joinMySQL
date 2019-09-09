@@ -1,1 +1,5 @@
-inner_joinMySQL
+# Download MySQL Installer
+
+# Open With MySQL Workbench
+
+# Create & Use DATABASE
